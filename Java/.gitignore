@@ -1,0 +1,16 @@
+# Ignorar todos os arquivos .class
+*.class
+
+# Ignorar pastas de build comuns
+/bin/
+/build/
+/target/
+
+# Ignorar configurações do Eclipse
+.settings/
+.project
+.classpath
+
+# Ignorar a pasta .metadata (caso esteja dentro do workspace Eclipse)
+**/.metadata/
+
